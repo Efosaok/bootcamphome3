@@ -1,0 +1,10 @@
+no.08067668582
+puk 67650101
+surname;meduoye
+name;oluwabusyo
+mothers name;mary
+address;15, kinleye str,okuoba
+sog;ondo
+lga of origin;ilaje
+state of residence;lagos
+lga ;agege

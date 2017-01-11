@@ -1,0 +1,8 @@
+#!/usr/bin/python
+
+a =5
+b = 10
+c = 15
+
+c =a + b
+print "line 1 - value of c is", c

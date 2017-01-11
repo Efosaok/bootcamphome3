@@ -1,0 +1,14 @@
+Proxy type: Real Host
+» Proxy server: cdn.whatsapp.net
+» Real Proxy type: DIRECT
+» Real Proxy server: 83.169.211.50
+» Real Proxy port: 3128
+» Select save and click on “tunnel whole device”.
+Click on the option tab
+» Region: select, USA or any other server
+» Select more option
+» Check “ Connect through an HTTP Pro” then
+select “Use the following settings:” then
+configure as;
+» Host address: 83.169.211.50
+» Port: 3128
